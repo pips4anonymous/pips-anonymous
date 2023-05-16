@@ -1,6 +1,6 @@
-# Code for PIPS: Path Integral Stochastic Optimal Control for Path Sampling in Molecular Dynamics
+# Code for Stochastic Optimal Control for Collective Variable Free Sampling of Molecular Transition Paths
 
-This is the codebase accompanying the _PIPS: Path Integral Stochastic Optimal Control for Path Sampling in Molecular Dynamics_ paper
+This is the codebase accompanying the _Stochastic Optimal Control for Collective Variable Free Sampling of Molecular Transition Paths_ paper
 currently under review at NeurIPS 2023. Upon acceptance this codebase will be unanonymized and made publicly available.
 
 For each molecule evaluated in the paper we provide a separate test file (both in general .py and notebook format).
